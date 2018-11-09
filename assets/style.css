@@ -6,6 +6,7 @@ body {
     background-color: #ffff;
     padding-top: 25px;
     padding-bottom: 25px;
+    border-bottom: 2px solid #eee;
 }
 
 .navbar-brand {
@@ -41,7 +42,7 @@ body {
 }
 
 .container{
-    margin-top: 10px;
+    margin-top: 25px;
     background-color: #fff;
     padding: 30px;
     border: solid 1px #eeee;
@@ -58,14 +59,17 @@ p {
 
 .one {
     margin-top: 20px;
+    margin-left: 150px;
 }
 
 .two {
     margin-top: 20px;
+    margin-left: 150px;
 }
 
 .three {
     margin-top: 20px;
+    margin-left: 150px;
 }
 
 .btn {
@@ -77,4 +81,8 @@ p {
 .btn:hover {
     background-color: #16DBD1;
     color: #ffff;
+}
+
+label {
+    color: #666
 }
