@@ -2,3 +2,40 @@ body {
     background-image: url(images/new_year_background/new_year_background.png)
 }
 
+.navbar{
+    color: #eeee;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.content{
+    margin-top: 15px;
+    background-color: #fff;
+    padding: 30px;
+    border: solid 1px #eeee;
+}
+
+.headshot {
+    margin-right: 15px;
+    float: left;
+}
+
+.bio {
+    margin-top: 15px;
+}
+
+.one {
+    margin-top: 20px;
+}
+
+.two {
+    margin-top: 20px;
+}
+
+.three {
+    margin-top: 20px;
+}
